@@ -3,7 +3,7 @@ Padding Fragment ViewPager
 
 
 <div>
-<img src="https://user-images.githubusercontent.com/38239236/63308606-6613db00-c32e-11e9-9167-a6a8d88dd827.jpg" width="180"></img>
-<img src="https://user-images.githubusercontent.com/38239236/63308611-6c09bc00-c32e-11e9-9ff8-30ad80f8c68e.jpg" width="180"></img>
-<img src="https://user-images.githubusercontent.com/38239236/63308614-6d3ae900-c32e-11e9-92d4-532ed025accc.jpg" width="180"></img>
+<img src="https://user-images.githubusercontent.com/38239236/67361870-c2041580-f5a4-11e9-81b5-cc4dafc5a673.jpg" width="180"></img>
+<img src="https://user-images.githubusercontent.com/38239236/67361871-c2041580-f5a4-11e9-9cdd-b1f7e6eeffc4.jpg" width="180"></img>
+<img src="https://user-images.githubusercontent.com/38239236/67361873-c29cac00-f5a4-11e9-9bd7-028e4c113fbf.jpg" width="180"></img>
 </div>
